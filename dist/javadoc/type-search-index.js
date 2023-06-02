@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Logica","l":"ConexionPorPais"},{"p":"RespaldoLatino","l":"main"},{"p":"Interfaz","l":"PrimeraSolicitud"},{"p":"Interfaz","l":"ResultadosPaisIndividual"},{"p":"Interfaz","l":"SeleccionInformacion"},{"p":"Interfaz","l":"SeleccionPais"},{"p":"Logica","l":"SolicitudesDTO"}];updateSearchResults();
